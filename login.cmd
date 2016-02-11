@@ -1,0 +1,1 @@
+cf login -u paul.azevedo@uoit.net -o paul.azevedo@uoit.net -s dev
